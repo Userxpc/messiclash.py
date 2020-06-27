@@ -1,4 +1,3 @@
-# messiclash.py
 import telebot
 
 bot = telebot.TeleBot("1215747770:AAGDCDf9YMzFOILyd6os7x5p8EF7yGN7dSw")
